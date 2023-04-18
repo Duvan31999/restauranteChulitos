@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1212,
+        "categorie": "desayuno",
+        "poster_path": "https://static.takeaway.com/images/restaurants/de/ORQN5PPN/products/8957258_arepasworld_food_conqueso.png?timestamp=1659124081",
+        "title": "AREPA RELLENA VEGETARIANA",
+        "precio": "15,000"
+      },
+      {
+        "id": 1214,
+        "categorie": "desayuno",
+        "poster_path": "https://static.takeaway.com/images/restaurants/de/O15NQ5PN/products/arepa_la_reina_pepiada.png?timestamp=1664529128",
+        "title": "AREPA RELLENA DE POLLO",
+        "precio": "14,000"
+      },
+      {
+        "id": 1215,
+        "categorie": "desayuno",
+        "poster_path": "https://m.media-amazon.com/images/I/51SOjnQiAzL._AC_SY580_.jpg",
+        "title": "PANCAKES",
+        "precio": "11,000"
+      },
+      {
+        "id": 1216,
+        "categorie": "almuerzo",
+        "poster_path": "https://gastroamantes.com/wp-content/uploads/2022/10/Disen%CC%83o-sin-ti%CC%81tulo-52-500x500.jpg",
+        "title": "BANDEJA PAISA",
+        "precio": "26,000"
+      },
+      {
+        "id": 1217,
+        "categorie": "almuerzo",
+        "poster_path": "https://lagloriadelsabor.com/wp-content/uploads/2013/06/punta-de-anca-500x500.jpg",
+        "title": "CARNE DE RES",
+        "precio": "21,000"
+      },
+      {
+        "id": 1218,
+        "categorie": "almuerzo",
+        "poster_path": "https://static.sscontent.com/thumb/500/500/products/124/v997264_prozis_2-x-beef--bacon-burger_4.jpg",
+        "title": "HAMBURGUESA DE LA CASA",
+        "precio": "23,000"
+      },
+      {
+        "id": 1219,
+        "categorie": "almuerzo",
+        "poster_path": "https://images.pexels.com/photos/5713731/pexels-photo-5713731.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "title": "BANDEJA VEGETARIANA",
+        "precio": "27,000"
+      },
+      {
+        "id": 1220,
+        "categorie": "almuerzo",
+        "poster_path": "https://images.pexels.com/photos/12667658/pexels-photo-12667658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "title": "BANDEJA ESPECIAL",
+        "precio": "31,000"
+      },
+      {
+        "id": 1221,
+        "categorie": "almuerzo",
+        "poster_path": "https://images.rappi.com/products/gp_sides_otra_mondongo.jpeg",
+        "title": "MONDONGO",
+        "precio": "16,000"
+      },
+      {
+        "id": 1222,
+        "categorie": "entrada",
+        "poster_path": "https://images.pexels.com/photos/6485578/pexels-photo-6485578.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "title": "PLATANOS FRITOS",
+        "precio": "7,000"
+      },
+      {
+        "id": 1223,
+        "categorie": "entrada",
+        "poster_path": "https://www.gonnawantseconds.com/wp-content/uploads/2020/07/Carne-Picada-01-500x500.jpg",
+        "title": "TAQUITOS",
+        "precio": "11,000"
+      },
+      {
+        "id": 1224,
+        "categorie": "postre",
+        "poster_path": "https://i.pinimg.com/564x/83/e6/97/83e697625e87c07256d90c448778e861--tiramisu-recipe-italian-desserts.jpg",
+        "title": "TIRAMISÚ",
+        "precio": "9,000"
+      },
+      {
+        "id": 1225,
+        "categorie": "postre",
+        "poster_path": "https://dorastable.com/wp-content/uploads/2019/02/tres-leches-cake-6-500x500.jpg",
+        "title": "POSTRE DE TRES LECHES",
+        "precio": "8,000"
+      },
+      {
+        "id": 1226,
+        "categorie": "postre",
+        "poster_path": "https://santelesforomadrid.es/wp-content/uploads/2021/03/helado-yogur-griego-con-frutos-500x500.jpg",
+        "title": "POSTRE CON HELADO",
+        "precio": "4,000"
+      },
+      {
+        "id": 1227,
+        "categorie": "bebida",
+        "poster_path": "https://www.webconsultas.com/sites/default/files/sustitutos_cafe/cacao.jpg",
+        "title": "CHOCOLATE CALIENTE",
+        "precio": "4,000"
+      },
+      {
+        "id": 1228,
+        "categorie": "bebida",
+        "poster_path": "https://images-na.ssl-images-amazon.com/images/I/51cgsrJFm9L.jpg",
+        "title": "AGUAPANELA",
+        "precio": "4,000"
+      },
+      {
+        "id": 1233,
+        "categorie": "bebida",
+        "poster_path": "https://p4.wallpaperbetter.com/wallpaper/813/369/237/coffee-coffee-beans-cup-hot-drink-wallpaper-preview.jpg",
+        "title": "CAFE CALIENTE",
+        "precio": "3,000"
+      },
+      {
+        "id": 1229,
+        "categorie": "bebida",
+        "poster_path": "https://c0.wallpaperflare.com/preview/879/772/974/coca-cola-the-coca-cola-company-bottle-drink.jpg",
+        "title": "COCA COLA",
+        "precio": "4,000"
+      },
+      {
+        "id": 1230,
+        "categorie": "bebida",
+        "poster_path": "https://falabella.scene7.com/is/image/FalabellaPE/770443979?wid=500&hei=500&qlt=70",
+        "title": "LIMONADA FRIA",
+        "precio": "4,000"
+      },
+      {
+        "id": 1231,
+        "categorie": "bebida",
+        "poster_path": "https://static.turbosquid.com/Preview/001330/369/E7/_600.jpg",
+        "title": "AGUA FRIA",
+        "precio": "3,000"
+      },
+      {
+        "id": 1232,
+        "categorie": "bebida",
+        "poster_path": "https://imgs.ponto.com.br/1505930231/1xg.jpg?imwidth=500",
+        "title": "H2O",
+        "precio": "3,600"
+      }
+
+]
